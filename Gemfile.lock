@@ -1,0 +1,17 @@
+PATH
+  remote: .
+  specs:
+    test-dependabot-instance-eval (1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  test-dependabot-instance-eval!
+
+BUNDLED WITH
+   2.2.26
